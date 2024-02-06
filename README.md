@@ -1,5 +1,4 @@
 ![RoundedTB](https://cdn.discordapp.com/attachments/272509873479221249/891555515799318568/unknown.png)
-
 # RoundedTB
 #### Add margins, rounded corners and segments to your taskbars!
 
